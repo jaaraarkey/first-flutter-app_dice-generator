@@ -1,6 +1,22 @@
 # first_app
 
-A new Flutter project.
+My first flutter app.
+Dice generator.
+
+Iincludes most important concepts in flutter and dart:
+- void main() {...} // Main app container/program function;
+- runApp(...) // Should be always be first function in the main function;
+- var, final, const variables;
+- typezation // dart implements strong typization for a better performance and compilation;
+- public classes;
+- privat classes; // should be started from _underline;
+- abstract interface classes;
+
+- widget concept // In flutter every component is called widget:
+    - StatelessWidget(...) // Static widget
+    - StatefullWidget(...) // Dynamnic widget 
+
+    
 
 ## Getting Started
 
