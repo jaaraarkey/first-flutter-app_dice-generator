@@ -40,17 +40,6 @@ This is a beginner-friendly Flutter app that simulates rolling dice. It serves a
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit pull requests. Refer to the contribution guidelines (if provided) for specific guidelines.
 
-**License:**
-
-Specify the license under which your code is distributed (e.g., MIT, Apache).
-
-**Additional Notes (Optional):**
-
-- You can include screenshots or GIFs to visually showcase the app.
-- Provide links to helpful resources for further learning on Flutter and Dart.
-- Express your appreciation for any contributions or feedback.
-
-
 ![Dice App](https://github.com/jaaraarkey/first-flutter-app_dice-generator/assets/67980130/6a3a70ff-765a-48cc-9348-afbc7c061c9b)
 
     
